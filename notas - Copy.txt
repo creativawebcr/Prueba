@@ -1,0 +1,32 @@
+knine
+
+open services live cicle colaboration
+oslc
+
+crear unit test sobre lkbkbkknbkbos propios codigos
+java conect
+
+el web service es un adaptador de oslc y se le llama adaptador porque se va a tranformar los datos a oslc
+
+
+
+
+OAuth 2.0 existen dos verciones
+
+
+tarea
+cual es el core, que es el estandar
+ver que es jama y que es jama conect
+
+
+MYSQL
+
+oslc
+
+git hub desptock
+
+
+---------------------
+Magic Draw
+
+swagger
