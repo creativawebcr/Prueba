@@ -9,6 +9,7 @@ java conect
 el web service es un adaptador de oslc y se le llama adaptador porque se va a tranformar los datos a oslc
 
 
+asdfasdfasdfasdf
 
 
 OAuth 2.0 existen dos verciones
