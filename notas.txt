@@ -12,6 +12,8 @@ el web service es un adaptador de oslc y se le llama adaptador porque se va a tr
 asdfasdfasdfasdf
 
 
+este es el nuevo cambio
+
 OAuth 2.0 existen dos verciones
 
 
