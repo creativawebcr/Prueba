@@ -3,7 +3,7 @@ knine
 open services live cicle colaboration
 oslc
 
-crear unit test sobre los propios codigos
+crear unit test sobre lkbkbkknbkbos propios codigos
 java conect
 
 el web service es un adaptador de oslc y se le llama adaptador porque se va a tranformar los datos a oslc
